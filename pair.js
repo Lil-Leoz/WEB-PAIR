@@ -81,11 +81,11 @@ router.get("/", async (req, res) => {
               ""
             );
 
-            const sid = `ROBIN MAX YT BOT PAIR\n\nWeb pair msg`;
+            const sid = `Sonic-MD BOT PAIR\n\nWeb pair msg`;
             const mg = `🛑 *Do not share this code to anyone* 🛑\n\n> ROBIN MAX`
             await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/ROBIN-MAX-YT/BOT-HELPER/refs/heads/main/Flux_Dev_a_surreal_and_vibrant_cinematic_photo_of_Create_an_ac_2.jpeg",
+                url: "https://raw.githubusercontent.com/Lil-Leoz/bot-help/refs/heads/main/IMG-20250407-WA0004.jpg",
               },
               caption: sid,
             });
